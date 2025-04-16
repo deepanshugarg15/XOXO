@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #548687;
+    background-color: #584B53;
     text-align: center;
 }
 
@@ -32,15 +32,15 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.1);
     font-size: 8vmin;
-    color: #b0413e;
-    background-color: #ffffc7;
+    color: #9D5C63;
+    background-color: #FEF5EF;
 }
 
 #reset-btn{
     padding: 1rem;
     font-size: 1.25 rem;
-    background-color: #191913;
-    color: #fff;
+    background-color: #E4BB97;
+    color: #9D5C63;
     border-radius: 1rem;
     border: none;
 }
@@ -48,14 +48,14 @@ body{
 #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #191913;
-    color: #fff;
+    background-color: #E4BB97;
+    color: #9D5C63;
     border-radius: 1rem;
     border: none;
 }
 
 #msg{
-    color: #ffffc7;
+    color: #FEF5EF;
     font-size: 5vmin;
 }
 
@@ -74,6 +74,7 @@ body{
 
 #game-title{
     font-size: 10vh;
+    color: #FEF5EF;
 }
 
 
